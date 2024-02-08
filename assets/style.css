@@ -14,7 +14,7 @@ body {
   position: absolute;
   top: 53%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%)
 }
 
 .main::before,
@@ -44,7 +44,6 @@ body {
   width: 100%;
   height: 100%;
 }
-
 .main:hover::before {
   border-top-color: #F25978;
   border-right-color: #F25978;
